@@ -1,0 +1,1 @@
+Unity's **life cycle functions**  are functions that Unity automatically calls for you.
