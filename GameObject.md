@@ -8,4 +8,4 @@ Any script that derives from [MonoBehaviour](MonoBehaviour%20Class) can be added
 
 The GameObject class is implemented in C++, in Unity's game engine, and its full architecture is unavailable. You can see the documentation for its methods on Unity's documentation page. 
 
-It also inherits from an actual C# class called [Object](Object%20Class.md). 
+It also inherits from a class called [Object](Object%20Class.md). However, you should not use any methods from object directly, and instead you should call methods from subclasses of Object.
